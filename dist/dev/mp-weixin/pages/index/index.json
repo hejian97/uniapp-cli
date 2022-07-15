@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "uni-badge": "../../node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge"
+  }
+}
